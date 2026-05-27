@@ -6,7 +6,7 @@ I'm a data analyst with experience in customer insights, financial analysis, and
 
 📫 **How to reach me:**
 - 💼 LinkedIn: [ememobong-ubia](https://www.linkedin.com/in/ememobong-ubia)
-- 🌐 Blog: [eubia3.github.io/-EUbia3-skills-github-pages](https://eubia3.github.io/-EUbia3-skills-github-pages/)
+- 🌐 Blog: [eubia3.github.io/-EUbia3-skills-github-pages](https://eubia3.github.io)
 
 ---
 
