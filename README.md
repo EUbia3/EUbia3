@@ -5,7 +5,7 @@
 I'm a data analyst with experience in customer insights, financial analysis, and business intelligence. This repository showcases a collection of real-world analytics projects that demonstrate my skills in Python, SQL, Power BI, and Excel, including data cleaning, analysis, and visualization for informed strategic decision-making.
 
 📫 **How to reach me:**
-- 💼 LinkedIn: [ememobong-ubia](https://www.linkedin.com/in/ememobong-ubia)
+- 💼 LinkedIn: [ememobong-ubia](www.linkedin.com/in/ememobong-ubia-b7024074)
 - 🌐 Blog: [eubia3.github.io/-EUbia3-skills-github-pages](https://eubia3.github.io)
 
 ---
